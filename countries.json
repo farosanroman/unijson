@@ -1,0 +1,12 @@
+{
+"countries":
+[
+{"country":"VE","name":"Venezuela","currency":"VES","url":"https://img.icons8.com/color/2x/venezuela-circular.png","saldo":0},        {"country":"CO","name":"Colombia","currency":"COP","url":"https://img.icons8.com/color/2x/colombia-circular.png","saldo":0},
+{"country":"ES","name":"Spain","currency":"EUR","url":"https://img.icons8.com/color/2x/spain-circular.png","saldo":0},
+{"country":"US","name":"United States","currency":"USD","url":"https://img.icons8.com/color/2x/usa-circular.png","saldo":0},
+{"country":"EU","name":"Europe","currency":"EUR","url":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROSpck5NUndoC4N8pKrrlzx0RjYEZeQYMp3g&usqp=CAU","saldo":0},
+{"country":"AR","name":"Argentina","currency":"ARS","url":"https://img.icons8.com/color/2x/argentina-circular.png","saldo":0},
+{"country":"BR","name":"Brazil","currency":"BRL","url":"https://img.icons8.com/color/2x/brazil-circular.png","saldo":0},
+{"country":"MX","name":"Mejico","currency":"MXN","url":"https://img.icons8.com/color/2x/mexico-circular.png","saldo":0}
+]
+}
